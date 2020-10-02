@@ -1,5 +1,6 @@
-### Hi there 👋
+### Moin 👋🏻
 
+- 🕸 Also on [Mastadon](https://troet.cafe/@river), but I toot as much as I tweet
 <!--
 **actual-size/actual-size** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
