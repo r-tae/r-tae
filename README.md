@@ -1,7 +1,7 @@
 ### Moin 👋🏻
 
-_Developer and linguistics enthusiast_
+_Developer and linguist in training_
 
-- 📣 Follow me on [Mastadon](https://troet.cafe/@river)
+- 📣 Follow me on [Mastadon](https://troet.cafe/@river) and [Birdsite](https://twitter.com/RiverTaeSmith)
 - 🎓 Currently studying at Monash University
 - No projects on the go at the moment, watch this space
